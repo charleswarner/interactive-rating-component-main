@@ -145,3 +145,13 @@ span {
     font-size: .80em;
     margin-top: -10px;
 }
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  color: var(--White-neut);
+}
+
+.attribution a {
+  color: var(--Orange-primary);
+}
